@@ -2,7 +2,7 @@
 
 Tablas responsivas solo con css y manipulando el Dom solo con js para listar api de pokemon.
 
-![](./public/pokecss.gif)
+![](./pokecss.gif)
 
 ### Demo
 
